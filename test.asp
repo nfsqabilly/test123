@@ -1,1 +1,1 @@
-dim strTest : strTest = "Hello"
+dim intOne : intOne = 1
