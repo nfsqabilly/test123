@@ -1,0 +1,1 @@
+dim strTest : strTest = "Hello"
